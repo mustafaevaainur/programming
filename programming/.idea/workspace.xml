@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c8bdbeea-6e78-4da0-8f89-b040d6f38ab8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -272,7 +271,7 @@
       <updated>1518549604972</updated>
       <workItem from="1518549610211" duration="233000" />
       <workItem from="1518549876391" duration="4190000" />
-      <workItem from="1518689815447" duration="9002000" />
+      <workItem from="1518689815447" duration="9205000" />
     </task>
     <task id="LOCAL-00001" summary="add vcs.xml">
       <created>1518550078748</created>
@@ -288,11 +287,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518635363533</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Main.java methods">
+      <created>1518699529438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518699529438</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13425000" />
+    <option name="totallyTimeSpent" value="13628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -337,7 +343,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add vcs.xml" />
     <MESSAGE value="add array" />
-    <option name="LAST_COMMIT_MESSAGE" value="add array" />
+    <MESSAGE value="add Main.java methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Main.java methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
